@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "EROpenURL"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "You can use this pod in ios app extensions to be able to use openURL."
   s.license      = "MIT"
   s.homepage     = "https://github.com/eduardorochabr/EROpenURL"
