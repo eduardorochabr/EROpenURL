@@ -5,6 +5,6 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "Eduardo Rocha" => "eduardorochabr@gmail.com" }
   s.platform     = :ios, "2.0"
-  s.source       = { :git => "http://github.com/eduardorochabr/CPOpenURL", :tag => s.version }
+  s.source       = { :git => "http://github.com/eduardorochabr/EROpenURL", :tag => s.version }
   s.source_files  = "*.{h,m}"
 end
